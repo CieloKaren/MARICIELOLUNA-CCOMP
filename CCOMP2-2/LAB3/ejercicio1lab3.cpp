@@ -4,7 +4,7 @@ bool Primo(int num) {
     if (num <= 1) {
         return false;
     }
-    for (int i = 2; i * i <= num; i++) {
+    for (int i = 2; i * i <= num; i++) { //reduce la cantidad de iteraciones necesarias para determinar si un numero es primo
         if (num % i == 0) {
             return false;
         }
