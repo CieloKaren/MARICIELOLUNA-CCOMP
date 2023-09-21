@@ -7,6 +7,7 @@ int main(){
     cout << "C     +++++   +++++" << endl;
     cout << "  C     +       +" << endl;
     cout << "   CCC  +       +" << endl;
+    cout << "hola" << endl;
 
     return 0;
 }

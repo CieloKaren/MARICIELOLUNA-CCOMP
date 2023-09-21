@@ -13,7 +13,7 @@ int main (){
 
     cout << "Diámetro del círculo: " << diametro << endl;
     cout << "Circunferencia del círculo: " << circunferencia << endl;
-    cout << "Área del círculo:" << area << endl;
+    cout << "Área del círculooooo:" << area << endl;
 
     return 0;
 
