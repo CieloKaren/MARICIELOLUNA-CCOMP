@@ -9,7 +9,7 @@ bool Primo(int num) {
             return false;
         }
     }
-    return true;
+    return true; //si no se encontró ningún divisor, la función devuelve true
 }
 
 int main() {
